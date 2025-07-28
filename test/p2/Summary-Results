@@ -1,0 +1,11 @@
+Scheduling Type: Batch (Preemptive)
+Scheduling Name: Round-Robin
+Simulation Run Time: 2000
+Mean: 1100
+Standard Deviation: 510
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		1100 (ms)	100 (ms)	585 (ms)	5 times
+1		1100 (ms)	500 (ms)	500 (ms)	1 times
+2		1100 (ms)	30 (ms)		150 (ms)	5 times
+3		1100 (ms)	53 (ms)		265 (ms)	5 times
+4		1100 (ms)	610 (ms)	500 (ms)	0 times
