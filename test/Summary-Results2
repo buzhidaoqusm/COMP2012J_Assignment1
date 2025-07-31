@@ -1,9 +1,0 @@
-Scheduling Type: Interactive
-Scheduling Name: Round-Robin
-Simulation Run Time: 1300
-Mean: 1300
-Standard Deviation: 500
-Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
-0		1300 (ms)	100 (ms)	400 (ms)	4 times
-1		1300 (ms)	400 (ms)	550 (ms)	1 times
-2		1300 (ms)	350 (ms)	350 (ms)	1 times
